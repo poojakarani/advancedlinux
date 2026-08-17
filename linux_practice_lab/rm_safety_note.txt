@@ -1,0 +1,7 @@
+Why rm is dangerous in linux:
+no Trash/Recycle bin: In Linux, rm unlinks files directly from the filesystem. Once deleted standard recovery is nearly impossible.
+the danger of rm -rf : the recursive (-r) and force (-f)flags will delete entire hierarchies silently without prompting.
+Best practice:
+Use the interactive flag (rm -i) or alias 
+Never run 'rm -rf /*' or use unverified wildcards (e.g., 'rm -rf * .txt' instead of '*.txt')
+double check current path with 'pwd' before executing deletion commands

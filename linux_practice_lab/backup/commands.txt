@@ -1,0 +1,5 @@
+pwd - print working directory
+ls - list directory contents
+cd - change directory
+mkdir - make directory
+touch - create an empty file

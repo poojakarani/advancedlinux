@@ -1,0 +1,10 @@
+Linux Command Observations:
+- pwd: Print Working Directory displays the absolute path of the current directory.
+-ls: Lists files and subdirectories within a directory
+_cd: Change Directory navigates between folders in the file system.
+_mkdir: Make Directory creates one or more new directories.
+-touch: Creates new empty file or updates existing file timestamps.
+-cp: Copies files or directories from a source to a destination
+-mv: Moves or Renames files and directories
+-rm: Removes/Deletes files permanently.
+-rmdir: Removes empty directories.

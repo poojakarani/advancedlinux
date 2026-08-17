@@ -1,0 +1,2 @@
+Overwrite (>) replaces file contents completely.
+Append (>>) adds new lines to the end without deleting existing data.
